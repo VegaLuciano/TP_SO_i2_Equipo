@@ -1,0 +1,2 @@
+Rta a: Lo actualizo con la opcion de Sincronizar el fork desde github con el boton: "Sync Fork"
+Rta b: Si se puede.
